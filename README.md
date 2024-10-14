@@ -86,4 +86,4 @@ Each competency is individually scored from 0 to 200, and the scores are summed 
 - [OpenAI](https://openai.com/) for GPT-4o-mini.
 - [Streamlit](https://streamlit.io/) for front-end.
 - [LangGraph](https://www.langchain.com/langgraph) for the LLM libraries.
-- [Scoras Academy](https://www.linkedin.com/company/scoras-academy/posts/?feedView=all) and [Anderson Amaral](https://www.linkedin.com/in/andersonlamaral/) for the excellent content provided.
+- [Scoras Academy](https://www.linkedin.com/company/scoras-academy/posts/?feedView=all), and [Anderson Amaral](https://www.linkedin.com/in/andersonlamaral/) for the excellent content provided.
