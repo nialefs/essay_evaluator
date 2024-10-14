@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "avaliador-de-redacao"
+version = "0.1.0"
+description = ""
+authors = ["Aline Salviano <alinefsalviano@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+langgraph = "^0.2.35"
+langchain-openai = "^0.2.2"
+langchain-core = "^0.3.10"
+python-dotenv = "^1.0.1"
+streamlit = "^1.39.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
