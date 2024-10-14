@@ -28,20 +28,11 @@ Each competency is individually scored from 0 to 200, and the scores are summed 
 
 ## Project structure
 
-.
-├── essay_evaluator
-│   └── __init__.py
-├── evaluator_frontend.py
-├── graph_essay_evaluator.png
-├── main.py
-├── poetry.lock
-├── __pycache__
-│   └── main.cpython-312.pyc
-├── pyproject.toml
-├── README.md
-└── tests
-    └── __init__.py
-
+- **evaluator_frontend.py:** File containing the app front-end
+- **graph_essay_evaluator.png:** Image file with the graph of the app
+- **main.py:** Main file with all the logic to run the LLM
+- **poetry.lock, main.cpython-312.pyc, pyproject.toml:** Files from the poetry package
+- **README.md:** Project documentation
 
 ## Installation
 
