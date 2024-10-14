@@ -42,8 +42,10 @@ Each competency is individually scored from 0 to 200, and the scores are summed 
    cd essay_evaluator
    ```
 
-2. Install dependencies using Poetry:
+2. Init the poetry project and install dependencies:
    ```bash
+   poetry init
+   poetry shell
    poetry install
    ```
 
