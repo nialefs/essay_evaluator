@@ -11,6 +11,8 @@ There are 5 competencies:
 
 Each competency is individually scored from 0 to 200, and the scores are summed to calculate the final grade. This app is designed to analyze an ENEM essay, considering the theme, grading it, and providing detailed feedback.
 
+[![Watch the video](https://img.youtube.com/vi/90aPlx7m5cU/0.jpg)](https://youtu.be/90aPlx7m5cU)
+
 ## Features
 
 - **Essay Evaluation:** Input your essay and its theme, and the app will automatically evaluate the essay across five competences.
